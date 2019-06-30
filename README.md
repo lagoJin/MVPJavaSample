@@ -1,7 +1,7 @@
 # MVPJavaSample
 
 
-#구글 블루프린트
+#구글 블루프린트</br>
 https://github.com/googlesamples/android-architecture
 
 - Java코드로 구현
